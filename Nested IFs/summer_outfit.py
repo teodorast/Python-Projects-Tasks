@@ -31,3 +31,4 @@ elif weather == "Evening":
         outfit = "Shirt"
         shoes = "Moccasins"
 print(f"It's {degrees} degrees, get your {outfit} and {shoes}.")
+
