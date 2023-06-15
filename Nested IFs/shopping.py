@@ -3,7 +3,7 @@ videocards_number = int(input())
 processors_number = int(input())
 ram_number = int(input())
 
-final_price = videocards_number*250 + processors_number*(videocards_number*250*0.35) + ram_number*(videocards_number*250*0.10))
+final_price = videocards_number*250 + processors_number*(videocards_number*250*0.35) + ram_number*(videocards_number*250*0.10)
 
 if videocards_number>processors_number:
     final_price = final_price - (final_price*0.15)
