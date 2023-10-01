@@ -1,3 +1,3 @@
-# Python-Projects-Tasks
+# Python-basics
 
 This is a simple python repo.
